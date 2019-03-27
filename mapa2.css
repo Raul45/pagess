@@ -1,0 +1,36 @@
+body {
+    background: #ffffff;
+    text-align: center;
+  }
+
+use:hover {
+    fill: #E55D76;
+  cursor: pointer;
+}
+#instructions{
+  
+}
+.instructions__text{
+  font-size: 15px;
+}
+#numbers{
+  font-size: 15px;
+}
+.instructions__title{
+  font-size: 25px;
+  line-height: 25%;
+}
+.simbologia__title{
+  font-size: 15px;
+}
+.list-group-item{
+  font-size: 15px;
+  height: 35px;
+}
+.filtro_title{
+  font-size: 25px;
+  line-height: 25%;
+}
+#filter{
+  width: 22.5%;
+}
